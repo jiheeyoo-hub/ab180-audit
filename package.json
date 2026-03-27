@@ -1,0 +1,9 @@
+{
+  "name": "ab180-agent-audit",
+  "version": "1.0.0",
+  "description": "AB180 Amplitude Agent Analytics Audit Dashboard",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  }
+}
